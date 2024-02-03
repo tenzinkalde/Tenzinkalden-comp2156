@@ -2,6 +2,7 @@ name: DevOps lab exercise
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 # Controls when the workflow will run
 on: [push]
+   #
 
 jobs:
   build:
