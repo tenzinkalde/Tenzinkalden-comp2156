@@ -1,4 +1,4 @@
-name: DevOps lab exercise
+name: Node.js CI
 
 on: [push]
 
