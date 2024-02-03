@@ -4,4 +4,3 @@ Github action and node project example
 ## Refernces 
 ..https://nodejs.org/en/download
 ..https://github.com/tenzinkalde/Tenzinkalden-comp2156/blob/master/.github/workflows/github-action-demo.yml
-### github action CI/CD intergration 
