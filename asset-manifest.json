@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Tenzinkalden-comp2156/static/css/main.f48a98bf.css",
-    "main.js": "/Tenzinkalden-comp2156/static/js/main.6ae53e25.js",
+    "main.js": "/Tenzinkalden-comp2156/static/js/main.7cd77880.js",
     "index.html": "/Tenzinkalden-comp2156/index.html",
     "main.f48a98bf.css.map": "/Tenzinkalden-comp2156/static/css/main.f48a98bf.css.map",
-    "main.6ae53e25.js.map": "/Tenzinkalden-comp2156/static/js/main.6ae53e25.js.map"
+    "main.7cd77880.js.map": "/Tenzinkalden-comp2156/static/js/main.7cd77880.js.map"
   },
   "entrypoints": [
     "static/css/main.f48a98bf.css",
-    "static/js/main.6ae53e25.js"
+    "static/js/main.7cd77880.js"
   ]
 }
